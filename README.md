@@ -53,8 +53,9 @@
                           ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
 
 #### Stats ilhammu29
+(https://streak-stats.demolab.com/?user=ilhammu29)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ilhammu29)](https://git.io/streak-stats)
+
 ## 🚀 About Me
 
 <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
