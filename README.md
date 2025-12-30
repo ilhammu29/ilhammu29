@@ -12,9 +12,9 @@
 
 ## 🚀 About Me
 
-<table>
+<table border="none">
 <tr>
-<td width="45%" align="center">
+<td width="45%" align="center" >
   <img src="img/char1.gif" alt="About GIF" width="100%" />
 </td>
 <td width="55%">
@@ -35,7 +35,7 @@ Tidak sekadar membuat web “jalan”, tapi memastikan **alur data, struktur kod
 
 ## 🧠 What I Do
 
-<table>
+<table border="none">
 <tr>
 <td width="55%">
 
