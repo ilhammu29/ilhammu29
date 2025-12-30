@@ -52,8 +52,9 @@
                         	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
                           ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
 
+#### Stats ilhammu29
 
-![ilhammu29's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhammu29)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ilhammu29)](https://git.io/streak-stats)
 ## 🚀 About Me
 
 <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
