@@ -15,7 +15,7 @@
 <table>
 <tr>
 <td width="45%" align="center">
-  <img src="img/about.gif" alt="About GIF" width="100%" />
+  <img src="img/char1.gif" alt="About GIF" width="100%" />
 </td>
 <td width="55%">
 
@@ -50,7 +50,7 @@ Tidak sekadar membuat web “jalan”, tapi memastikan **alur data, struktur kod
 
 </td>
 <td width="45%" align="center">
-  <img src="img/work.gif" alt="Work GIF" width="100%" />
+  <img src="img/char2.gif" alt="Work GIF" width="100%" />
 </td>
 </tr>
 </table>
