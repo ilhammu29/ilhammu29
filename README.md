@@ -53,7 +53,7 @@
                           ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
 
 
-![ilhammu29's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![ilhammu29's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilhammu29&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ## 🚀 About Me
 
 <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
