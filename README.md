@@ -12,12 +12,13 @@
 
 ## 🚀 About Me
 
-<table style="border:0;">
-<tr>
-<td width="45%" align="center" >
-  <img src="img/char1.gif" alt="About GIF" width="100%" />
-</td>
-<td width="55%">
+<table border="0">
+  <tr>
+    <td width="45%" align="center">
+      <img src="img/char1.gif" alt="About GIF" width="100%" />
+    </td>
+    <td width="55%">
+
 
 Saya seorang **Web Engineer** dengan fokus pada **Full Stack Development**.  
 Tidak sekadar membuat web “jalan”, tapi memastikan **alur data, struktur kode, dan skalabilitas** masuk akal.
@@ -35,7 +36,7 @@ Tidak sekadar membuat web “jalan”, tapi memastikan **alur data, struktur kod
 
 ## 🧠 What I Do
 
-<table border="none">
+<table border="0">
 <tr>
 <td width="55%">
 
