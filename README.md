@@ -9,7 +9,8 @@
 </p>
 
 ---
-
+##### Skills
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ## 🚀 About Me
 
 <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
