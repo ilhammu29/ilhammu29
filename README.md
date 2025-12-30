@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-<table border="none">
+<table style="border:0;">
 <tr>
 <td width="45%" align="center" >
   <img src="img/char1.gif" alt="About GIF" width="100%" />
