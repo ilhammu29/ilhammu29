@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="img/header.png" alt="Header" width="100%" />
+  <img src="img/header2.png" alt="Header" width="100%" />
 </p>
 
 <h1 align="center">👨‍💻 Web Engineer | Full Stack Developer</h1>
