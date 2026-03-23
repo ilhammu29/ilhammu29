@@ -2,31 +2,48 @@
   <img src="img/header2.png" alt="Header" width="100%" />
 </p>
 
-<h1 align="center">👨‍💻 Product-Minded Web Engineer | Tech Builder</h1>
+<h1 align="center">Hi there, I'm Ilham! 👋</h1>
+<h3 align="center">👨‍💻 Product-Minded Web Engineer | SaaS & B2B Tech Builder</h3>
 
-> 💡 **Philosophy:** Membangun ekosistem digital dan SaaS yang *logis*, *scalable*, dan berorientasi pada solusi bisnis. Kode yang ditulis hari ini adalah infrastruktur untuk masa depan.
+> 💡 **Engineering Philosophy:** *"Code is read more often than it is written."* > Fokus saya adalah membangun ekosistem digital dan perangkat lunak yang **logis, *scalable*, dan berorientasi pada penyelesaian masalah bisnis**.
+
+<br>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 The Builder Mindset</h3>
+      <p>Saya bukan sekadar menulis kode, tapi merancang arsitektur sistem yang menyelesaikan masalah di dunia nyata. Saya memiliki minat khusus pada pengembangan aplikasi <b>B2B, ekosistem manajemen instansi, dan integrasi AI</b>.</p>
+      <b>🎯 Prinsip Kerja:</b>
+      <ul>
+        <li><b>Product-Led:</b> Solusi teknis harus sejalan dengan kebutuhan bisnis.</li>
+        <li><b>Clean Architecture:</b> Solusi elegan & rapi > arsitektur rumit tapi rapuh.</li>
+        <li><b>Scalability:</b> Desain *database* yang siap menampung lonjakan data tanpa drama di masa depan.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="img/char1.gif" alt="About GIF" width="80%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🗂️ Active Ventures & Database
+## 🗂️ Active Ventures & Project Board
 
-Selayaknya *Notion Board*, berikut adalah *high-level view* dari produk dan sistem yang sedang saya kembangkan:
+Selayaknya *Notion Workspace*, berikut adalah *high-level view* dari produk dan sistem yang saat ini sedang saya kembangkan:
 
-| Status | Project Name | Category | Tech Focus |
-| :---: | :--- | :--- | :--- |
-| 🟢 **Building** | **Digital School Ecosystem** | B2B / Management | End-to-end System, Database Architecture |
-| 🟡 **Polishing** | **Psychometric & Assessment App** | Web Platform | Data Structuring, Specialized UI/UX |
-| 🔵 **Prototyping** | **Automated AI Venture Builder** | Internal Tool / AI | Multi-Agent Orchestration, Automation |
-
-<br>
+| 🚥 Status | 📦 Project Name | 🏷️ Category | 🛠️ Core Tech / Focus | 🎯 Key Features |
+| :---: | :--- | :--- | :--- | :--- |
+| 🟢 **Building** | **Digital School Ecosystem** | B2B / EdTech | Full Stack, Relational DB | 21+ modul terintegrasi (manajemen finansial, rapor otomatis, profil sekolah). |
+| 🟡 **Polishing** | **Psychometric App** | Assessment App | Web Platform, Security | Sistem *testing* untuk asesmen MMPI & ADHD, kalkulasi *scoring* otomatis. |
+| 🔵 **Prototyping**| **Automated AI Venture Builder** | Internal Tool / AI | Multi-Agent, Vector DB | Orkestrasi AI, Redis, ChromaDB untuk percepatan *deployment* produk. |
 
 <details>
-<summary>📂 <b><i>(Click to expand)</i> Detail Pendekatan Project Saya</b></summary>
+<summary>📂 <b><i>(Click to expand)</i> Lihat detail arsitektur & pendekatan teknis</b></summary>
 <br>
   
-- **Product-Led:** Fitur dibangun berdasarkan kebutuhan nyata klien/user, bukan sekadar *gimmick* teknologi.
-- **Maintainability:** Solusi elegan dan <i>clean code</i> jauh lebih berharga daripada arsitektur rumit tapi rapuh.
-- **Scalability:** Sistem didesain agar minim masalah ketika jumlah data dan <i>traffic</i> mulai membesar.
+Pendekatan saya pada *project* di atas berfokus pada **Modularitas dan Reusability**. Setiap fitur (seperti modul finansial siswa atau sistem skoring psikotes) dibangun dengan alur logika yang dipecah menjadi komponen mandiri, sehingga mudah di-*maintain* dan di-*scale* ketika ada penambahan fitur baru di masa depan.
   
 </details>
 
@@ -34,113 +51,95 @@ Selayaknya *Notion Board*, berikut adalah *high-level view* dari produk dan sist
 
 ## 🛠️ Tech Stack & Arsenal
 
-<p align="center">Teknologi pilihan di dalam <i>workspace</i> saya untuk mengubah ide kompleks menjadi produk siap rilis:</p>
+<p>Peralatan tempur yang saya gunakan untuk mengubah logika menjadi produk yang berfungsi penuh:</p>
 
-<p align="center">
-  <b>🌐 Frontend & Modern UI</b><br>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-<p align="center">
-  <b>⚙️ Backend, Database & AI</b><br>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI" />
-</p>
-
-<p align="center">
-  <b>🖥️ OS, Architecture & DevOps</b><br>
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
-<p align="center">
-  <b>🧰 Workflow & Tools</b><br>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-</p>
-
----
-
-## 🧠 What I Do Best
-
-<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
+<table>
   <tr>
-    <td width="55%" style="border:none;">
-
-💻 **SaaS & Ecosystem Development**
-- Membangun perangkat lunak terintegrasi secara *End-to-End*.
-- Mendesain arsitektur *database* relasional yang solid untuk aplikasi berskala menengah-besar.
-
-🤖 **Automation & Workflow**
-- Memanfaatkan potensi AI dan automasi untuk memangkas proses manual.
-- Mengubah alur kerja yang berantakan menjadi sistem digital yang rapi dan terukur.
-
-📈 **Problem to Code**
-- Membedah masalah bisnis klien dan menerjemahkannya menjadi fitur web yang efisien.
-
+    <td valign="top" width="33%">
+      <b>🌐 Frontend & UI</b><br><br>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <br>
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <br>
+      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     </td>
-    <td width="45%" align="center" style="border:none;">
-      <img src="img/char2.gif" alt="Work GIF" width="100%" />
+    <td valign="top" width="33%">
+      <b>⚙️ Backend & Data</b><br><br>
+      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /> <br>
+      <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" />
+    </td>
+    <td valign="top" width="33%">
+      <b>🖥️ Infra & Tools</b><br><br>
+      <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" /> <br>
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <br>
+      <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📚 Currently Leveling Up
+## 📊 Development Activity
 
-<details>
-<summary>🌱 <b><i>(Click to expand)</i> Fokus Pembelajaran & Eksplorasi Saat Ini</b></summary>
-<br>
+<p align="center">Konsistensi adalah kunci. Berikut adalah rekam jejak aktivitas *coding* saya:</p>
 
-Membangun produk hebat butuh amunisi yang kuat. Saat ini saya sedang intens mengeksplorasi:
-- **Modern JavaScript Ecosystem:** Pendalaman T3 Stack (Next.js, Tailwind, tRPC, Prisma) untuk *rapid development*.
-- **AI Integration:** Eksperimen *Multi-Agent Orchestration* ke dalam aplikasi web.
-- **System Architecture:** Mempelajari pola desain *backend* untuk produk dengan *high-traffic*.
-
-</details>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=ilhammu29&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhammu29&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Activity
+## 📚 Continuous Learning
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <img src="img/char2.gif" alt="Work GIF" width="80%" />
+    </td>
+    <td width="60%" valign="top">
+      Membangun produk dengan standar tinggi menuntut pembaruan ilmu yang konstan. Saat ini saya sedang intens mengeksplorasi:<br><br>
+      🌱 <b>Fokus Saat Ini:</b>
+      <ul>
+        <li><b>Modern JavaScript Ecosystem:</b> Transisi dan penguasaan <b>T3 Stack</b> (MERN / Next.js, Prisma, Tailwind) untuk <i>rapid product development</i>.</li>
+        <li><b>System Architecture:</b> Pendalaman <i>design patterns</i> dan optimasi <i>query</i> database.</li>
+        <li><b>Business & Tech Sync:</b> Mengawinkan keahlian teknis dengan negosiasi B2B untuk meluncurkan SaaS yang bernilai jual tinggi.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Let's Collaborate!
+
+Saya selalu terbuka untuk diskusi teknis, kolaborasi proyek, atau peluang *tech partnership* (terutama di bidang pengembangan perangkat lunak B2B dan pendidikan).
 
 <p align="center">
   <a href="https://github.com/ilhammu29">
-    <img src="https://streak-stats.demolab.com/?user=ilhammu29&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
+  </p>
 
----
-
-## 🤝 Let's Collaborate
-
-Saya selalu terbuka untuk peluang yang melibatkan pembangunan produk bernilai tinggi:
-- 🏢 Pengembangan solusi *software* B2B / Instansi.
-- 🚀 *Tech Partnership* untuk membangun SaaS atau platform digital.
-- ☕ Diskusi seputar arsitektur web, automasi bisnis, atau strategi *sales* produk digital.
-
-**Let's Connect!** 📍 **GitHub:** [@ilhammu29](https://github.com/ilhammu29)  
-*(Drop your LinkedIn / Email here)*
-
----
+<br>
 
 <p align="center">
-  <i>Write logic. Build systems. Deliver value.</i>
+  <i>"Write logic. Build systems. Deliver value."</i>
 </p>
