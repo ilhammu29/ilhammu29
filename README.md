@@ -9,7 +9,7 @@
 
 <br>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="width: 100%;">
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 The Builder Mindset</h3>
@@ -18,7 +18,7 @@
       <ul>
         <li><b>Product-Led:</b> Solusi teknis harus sejalan dengan kebutuhan bisnis.</li>
         <li><b>Clean Architecture:</b> Solusi elegan & rapi > arsitektur rumit tapi rapuh.</li>
-        <li><b>Scalability:</b> Desain *database* yang siap menampung lonjakan data tanpa drama di masa depan.</li>
+        <li><b>Scalability:</b> Desain database yang siap menampung lonjakan data tanpa drama di masa depan.</li>
       </ul>
     </td>
     <td width="50%" valign="top" align="center">
@@ -33,11 +33,36 @@
 
 Selayaknya *Notion Workspace*, berikut adalah *high-level view* dari produk dan sistem yang saat ini sedang saya kembangkan:
 
-| 🚥 Status | 📦 Project Name | 🏷️ Category | 🛠️ Core Tech / Focus | 🎯 Key Features |
-| :---: | :--- | :--- | :--- | :--- |
-| 🟢 **Building** | **Digital School Ecosystem** | B2B / EdTech | Full Stack, Relational DB | 21+ modul terintegrasi (manajemen finansial, rapor otomatis, profil sekolah). |
-| 🟡 **Polishing** | **Psychometric App** | Assessment App | Web Platform, Security | Sistem *testing* untuk asesmen MMPI & ADHD, kalkulasi *scoring* otomatis. |
-| 🔵 **Prototyping**| **Automated AI Venture Builder** | Internal Tool / AI | Multi-Agent, Vector DB | Orkestrasi AI, Redis, ChromaDB untuk percepatan *deployment* produk. |
+<table width="100%" style="width: 100%;">
+  <tr>
+    <th width="15%" align="center">🚥 Status</th>
+    <th width="25%" align="left">📦 Project Name</th>
+    <th width="15%" align="left">🏷️ Category</th>
+    <th width="20%" align="left">🛠️ Core Tech / Focus</th>
+    <th width="25%" align="left">🎯 Key Features</th>
+  </tr>
+  <tr>
+    <td align="center">🟢 <b>Building</b></td>
+    <td><b>Digital School Ecosystem</b></td>
+    <td>B2B / EdTech</td>
+    <td>Full Stack, Relational DB</td>
+    <td>21+ modul terintegrasi (manajemen finansial, rapor otomatis, profil sekolah).</td>
+  </tr>
+  <tr>
+    <td align="center">🟡 <b>Polishing</b></td>
+    <td><b>Psychometric App</b></td>
+    <td>Assessment App</td>
+    <td>Web Platform, Security</td>
+    <td>Sistem <i>testing</i> untuk asesmen MMPI & ADHD, kalkulasi <i>scoring</i> otomatis.</td>
+  </tr>
+  <tr>
+    <td align="center">🔵 <b>Prototyping</b></td>
+    <td><b>Automated AI Venture Builder</b></td>
+    <td>Internal Tool / AI</td>
+    <td>Multi-Agent, Vector DB</td>
+    <td>Orkestrasi AI, Redis, ChromaDB untuk percepatan <i>deployment</i> produk.</td>
+  </tr>
+</table>
 
 <details>
 <summary>📂 <b><i>(Click to expand)</i> Lihat detail arsitektur & pendekatan teknis</b></summary>
@@ -53,7 +78,7 @@ Pendekatan saya pada *project* di atas berfokus pada **Modularitas dan Reusabili
 
 <p>Peralatan tempur yang saya gunakan untuk merancang logika dan membangun produk yang berfungsi penuh:</p>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="width: 100%;">
   <tr>
     <td width="30%" valign="top">
       <b>🌐 Frontend & UI</b>
@@ -117,7 +142,7 @@ Pendekatan saya pada *project* di atas berfokus pada **Modularitas dan Reusabili
 
 > 📈 **Metrik Iterasi:** Membangun produk yang solid butuh eksekusi dan disiplin yang konsisten. Data di bawah merepresentasikan jam terbang, eksplorasi teknologi, dan *progress* saya dalam mengeksekusi ide menjadi baris kode.
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="width: 100%;">
   <tr>
     <td width="50%" align="center" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=ilhammu29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ilham's GitHub Stats" width="100%" />
@@ -138,7 +163,7 @@ Pendekatan saya pada *project* di atas berfokus pada **Modularitas dan Reusabili
 
 ## 📚 Continuous Learning
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="width: 100%;">
   <tr>
     <td width="40%" align="center" valign="middle">
       <img src="img/char2.gif" alt="Work GIF" width="80%" />
@@ -165,7 +190,7 @@ Saya selalu terbuka untuk diskusi teknis, kolaborasi proyek, atau peluang *tech 
   <a href="https://github.com/ilhammu29">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  </p>
+</p>
 
 <br>
 
