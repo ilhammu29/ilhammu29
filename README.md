@@ -113,6 +113,29 @@ Pendekatan saya pada *project* di atas berfokus pada **Modularitas dan Reusabili
 
 ---
 
+## 📊 Engineering & Development Activity
+
+> 📈 **Metrik Iterasi:** Membangun produk yang solid butuh eksekusi dan disiplin yang konsisten. Data di bawah merepresentasikan jam terbang, eksplorasi teknologi, dan *progress* saya dalam mengeksekusi ide menjadi baris kode.
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=ilhammu29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ilham's GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhammu29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <br>
+      <img src="https://streak-stats.demolab.com/?user=ilhammu29&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📚 Continuous Learning
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
