@@ -3,14 +3,38 @@
 </p>
 
 <h1 align="center">👨‍💻 Product-Minded Web Engineer | Tech Builder</h1>
-<p align="center">
-  Membangun ekosistem digital dan SaaS yang <b>logis</b>, <b>scalable</b>, dan <b>berorientasi pada solusi bisnis</b>.
-</p>
+
+> 💡 **Philosophy:** Membangun ekosistem digital dan SaaS yang *logis*, *scalable*, dan berorientasi pada solusi bisnis. Kode yang ditulis hari ini adalah infrastruktur untuk masa depan.
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Arsenal</h2>
-<p align="center">Teknologi yang saya gunakan untuk mengubah ide kompleks menjadi produk siap rilis:</p>
+## 🗂️ Active Ventures & Database
+
+Selayaknya *Notion Board*, berikut adalah *high-level view* dari produk dan sistem yang sedang saya kembangkan:
+
+| Status | Project Name | Category | Tech Focus |
+| :---: | :--- | :--- | :--- |
+| 🟢 **Building** | **Digital School Ecosystem** | B2B / Management | End-to-end System, Database Architecture |
+| 🟡 **Polishing** | **Psychometric & Assessment App** | Web Platform | Data Structuring, Specialized UI/UX |
+| 🔵 **Prototyping** | **Automated AI Venture Builder** | Internal Tool / AI | Multi-Agent Orchestration, Automation |
+
+<br>
+
+<details>
+<summary>📂 <b><i>(Click to expand)</i> Detail Pendekatan Project Saya</b></summary>
+<br>
+  
+- **Product-Led:** Fitur dibangun berdasarkan kebutuhan nyata klien/user, bukan sekadar *gimmick* teknologi.
+- **Maintainability:** Solusi elegan dan <i>clean code</i> jauh lebih berharga daripada arsitektur rumit tapi rapuh.
+- **Scalability:** Sistem didesain agar minim masalah ketika jumlah data dan <i>traffic</i> mulai membesar.
+  
+</details>
+
+---
+
+## 🛠️ Tech Stack & Arsenal
+
+<p align="center">Teknologi pilihan di dalam <i>workspace</i> saya untuk mengubah ide kompleks menjadi produk siap rilis:</p>
 
 <p align="center">
   <b>🌐 Frontend & Modern UI</b><br>
@@ -54,38 +78,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/ilhammu29">
-    <img src="https://streak-stats.demolab.com/?user=ilhammu29&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
-## 🚀 The Builder Mindset
-
-<table border="0" cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
-    <td width="45%" align="center" style="border:none;">
-      <img src="img/char1.gif" alt="About GIF" width="100%" />
-    </td>
-    <td width="55%" style="border:none;">
-
-Saya bukan sekadar menulis kode. Saya merancang sistem yang menyelesaikan masalah nyata. Fokus utama saya adalah membangun aplikasi B2B, ekosistem digital, dan platform yang punya nilai jual (*marketable*).
-
-🎯 **Prinsip Engineering Saya:**
-- **Product-Led:** Kode ditulis untuk melayani kebutuhan bisnis dan *user*, bukan sebaliknya.
-- **Maintainability:** Solusi elegan dan *clean code* > arsitektur rumit tapi rapuh.
-- **Scalability:** Sistem yang baik adalah investasi jangka panjang, minim drama ketika data makin besar.
-
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🧠 What I Do Best
 
 <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
@@ -114,36 +106,37 @@ Saya bukan sekadar menulis kode. Saya merancang sistem yang menyelesaikan masala
 
 ## 📚 Currently Leveling Up
 
+<details>
+<summary>🌱 <b><i>(Click to expand)</i> Fokus Pembelajaran & Eksplorasi Saat Ini</b></summary>
+<br>
+
 Membangun produk hebat butuh amunisi yang kuat. Saat ini saya sedang intens mengeksplorasi:
 - **Modern JavaScript Ecosystem:** Pendalaman T3 Stack (Next.js, Tailwind, tRPC, Prisma) untuk *rapid development*.
-- **AI Integration:** Implementasi *Multi-Agent Orchestration* dan automasi cerdas ke dalam aplikasi web.
+- **AI Integration:** Eksperimen *Multi-Agent Orchestration* ke dalam aplikasi web.
 - **System Architecture:** Mempelajari pola desain *backend* untuk produk dengan *high-traffic*.
 
-> *Belajar adalah proses konstan untuk menaikkan standar kualitas karya.*
+</details>
 
 ---
 
-## 📂 Ventures & Projects Focus
+## 📊 GitHub Activity
 
-📌 **Fokus pengembangan produk saya saat ini meliputi:**
-- 🏫 **Digital School Ecosystem:** Membangun *software* manajemen menyeluruh untuk institusi pendidikan swasta.
-- 🧠 **Psychometric & Assessment Platforms:** Aplikasi web khusus untuk pengujian data medis/psikologis terstruktur.
-- ⚡ **Automated Systems:** Mengembangkan *tool* internal dan *Venture Builder* berbasis AI untuk mempercepat *deployment* produk.
+<p align="center">
+  <a href="https://github.com/ilhammu29">
+    <img src="https://streak-stats.demolab.com/?user=ilhammu29&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
 ## 🤝 Let's Collaborate
 
 Saya selalu terbuka untuk peluang yang melibatkan pembangunan produk bernilai tinggi:
-- Pengembangan solusi *software* B2B / Instansi.
-- *Tech Partnership* untuk membangun SaaS atau platform digital.
-- Diskusi seputar arsitektur web, automasi bisnis, atau bahkan strategi *sales* produk digital.
+- 🏢 Pengembangan solusi *software* B2B / Instansi.
+- 🚀 *Tech Partnership* untuk membangun SaaS atau platform digital.
+- ☕ Diskusi seputar arsitektur web, automasi bisnis, atau strategi *sales* produk digital.
 
----
-
-## 📫 Connect With Me
-
-📍 **GitHub:** [@ilhammu29](https://github.com/ilhammu29)  
+**Let's Connect!** 📍 **GitHub:** [@ilhammu29](https://github.com/ilhammu29)  
 *(Drop your LinkedIn / Email here)*
 
 ---
