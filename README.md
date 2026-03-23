@@ -141,7 +141,7 @@ Pendekatan saya pada *project* di atas berfokus pada **Modularitas dan Reusabili
 ## 📊 Engineering & Development Activity
 
 > 📈 **Metrik Iterasi:** Membangun produk yang solid butuh eksekusi dan disiplin yang konsisten. Data di bawah merepresentasikan jam terbang, eksplorasi teknologi, dan *progress* saya dalam mengeksekusi ide menjadi baris kode.
-
+<center>
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="width: 100%;">
   <tr>
     <td width="50%" align="center" valign="top">
@@ -158,7 +158,7 @@ Pendekatan saya pada *project* di atas berfokus pada **Modularitas dan Reusabili
     </td>
   </tr>
 </table>
-
+</center>
 ---
 
 ## 📚 Continuous Learning
